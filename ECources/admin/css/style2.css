@@ -1,0 +1,36 @@
+html , body{
+    margin: 0px auto;
+    padding: 0px auto;
+    background-color: #F2F2F2;
+}
+.container {
+  width: 85%;
+}
+.admin .container form{
+    margin-top: 15px;
+}
+.admin .container form input{
+    border-radius: 5px;
+    height: 40px;
+    width: 40%;
+}
+.admin .container form textarea{
+    border-radius: 5px;
+    height: 80px;
+    width: 40%;
+}
+.admin .container form select{
+      border-radius: 5px;
+    height: 40px;
+    width: 20%;
+}
+
+.admin .container form button {
+    width: 60px;
+    height: 30px;
+    border-radius: 7px;}
+/*    margin-left: 30px;}*/
+
+
+
+

@@ -1,0 +1,8 @@
+html , body{
+    margin: 0px auto;
+    padding: 0px auto;
+    background-color: #F2F2F2;
+}
+.container {
+  width: 85%;
+}

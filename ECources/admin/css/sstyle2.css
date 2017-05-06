@@ -1,0 +1,76 @@
+html , body{
+    margin: 0px auto;
+    padding: 0px auto;
+/*        background-color: #F2F2F2;*/
+
+}
+
+.admin {
+    text-align: left;
+}
+
+.container {
+  width: 85%;
+  text-align: center;
+}
+.admin .container{
+    
+}
+
+.nav {
+    background-color: #F5F7DC;
+    height: 700px;
+}
+
+
+
+
+.nav .container .link {
+    text-align:center;
+}
+.nav .container .link hr {
+    color: black;
+    width: 30%;}
+
+
+.nav .admin .container form input {
+    border-radius: 5px;
+    height: 40px;
+    width: 50%;
+    font-family: cursive;
+    font-size: 20px;
+ 
+}
+.nav .admin .container form textarea{
+    border-radius: 5px;
+    width: 47%;
+    height: 300px;
+    font-family: cursive;
+    font-size: 20px;
+    color: darkgrey;
+}
+.nav .admin .container form button{
+    border-radius: 5px;
+    width: 70px;
+    height: 37px;
+    color: chocolate;
+    font-family: cursive;
+    font-size: 16px;
+
+}
+
+.nav .admin .container form select{
+        width: 200px;
+     height: 35px;
+    color: chocolate;}
+
+
+
+.nav .admin .container form .file{
+    text-align: center;
+}
+
+#fil {
+/*    margin-right: 100px;}*/
+    margin-left: 350px;}
+
